@@ -12,3 +12,4 @@
 
 ## 個人的単語注意点  
 - 同じ「正確に」でも，accuracy（正解に近い）≒ precisely (何度やっても同じようになる, repeatedly)  
+- 「一般的に」はgeneral以外にもtypicalとかcommonとかあるので積極的に使おう  
