@@ -3,6 +3,7 @@
 - [Google Ngram Viewer](https://books.google.com/ngrams/): どの単語がよく使われるかとかを確認するのに良さげ  
 - Wikipedia: 内容はともかく，単語の説明の仕方に迷った時など，単文での英語の書き方の参考に  
 - [ロングマン現代英英辞典](https://www.ldoceonline.com/jp/): 例文も良さげなものが載っていて使いやすいオンライン英英辞書．可算不可算の判断等迷った時に  
+- [ACS style guide](http://www.jlakes.org/config/hpkx/news_category/2017-02-14/ACS-StyleGuide.pdf): アメリカ化学学会が出してる論文執筆指針．p.54あたりから避けるべき表現や単語と，それらをどう言い換えるかという話が載ってたりするので良い  
 
 ## 個人的文法注意点  
 - 限定・非限定用法に注意  
